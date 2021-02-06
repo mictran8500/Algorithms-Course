@@ -8,4 +8,4 @@ Quick Sort,
 Pattern Searching,
 "N choose K",
 A dynamic programming solution for the Rod Cutting Problem,
-and 3 solutions using different optimization techniques (recursion, memoization, tabulation) to the "Pebbles on a Path" problem.
+and 3 solutions using different optimization techniques (recursion, memoization, tabulation) to the "Most Pebbles on a Path" problem.
