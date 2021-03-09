@@ -3,9 +3,9 @@ Contains simple sorting algorithms (mergesort, quicksort), searching algorithms,
 
 THIS FILE INCLUDES CODE FOR:
 
-Merge Sort,
-Quick Sort,
-Pattern Searching,
-"N choose K",
-A dynamic programming solution for the Rod Cutting Problem,
-and 3 solutions using different optimization techniques (recursion, memoization, tabulation) to the "Most Pebbles on a Path" problem.
+Merge Sort,<br />
+Quick Sort,<br />
+Pattern Searching,<br />
+"N choose K",<br />
+A dynamic programming solution for the Rod Cutting Problem,<br />
+and 3 solutions using different optimization techniques (recursion, memoization, tabulation) to the "Most Pebbles on a Path" problem.<br />
