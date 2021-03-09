@@ -1,5 +1,5 @@
 # Algorithms-Course
-Holds projects and assignments completed during my undergrad algorithms course. Includes dynamic programming, sorting/searching algorithms and optimization techniques.
+Contains simple sorting algorithms (mergesort, quicksort), searching algorithms, a dynamic programming example, and optimization techniques.
 
 THIS FILE INCLUDES CODE FOR:
 
