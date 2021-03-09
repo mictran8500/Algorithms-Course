@@ -1,4 +1,4 @@
-# Algorithms-Course
+# Simple-Algorithms
 Contains simple sorting algorithms (mergesort, quicksort), searching algorithms, a dynamic programming example, and optimization techniques.
 
 THIS FILE INCLUDES CODE FOR:
